@@ -81,6 +81,8 @@ main {
         color: $white;
         font-weight: 600;
         transition: 0.15s ease;
+        z-index: 1;
+        margin-top: 2rem;
 
         &:hover {
             box-shadow: 2px 2px 5px $blue;
